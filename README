@@ -1,3 +1,6 @@
+DO NOT USE THIS VERSION! THE LICENSE INFORMATION IS NOT ACCURATE!
+ONLY FOR TESTING PURPOSES!
+
 This is jwhois, an improved Whois client capable of selecting Whois server
 to query based on a flexible configuration file using either regular
 expressions or CIDR blocks.
